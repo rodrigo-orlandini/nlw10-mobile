@@ -1,19 +1,14 @@
-# NLW Copa (Mobile) ⚽📱
+# NLW Cup (Mobile) ⚽📱
 
-Este aplicativo foi criado durante o evento Next Level Week 10 da Rocketseat.<br>
-O intuito da aplicação é disponibilizar uma maneira fácil de gerenciar os famosos bolões de forma descentralizada, assim, você pode organizar seu próprio bolão com os jogos que deseja entre seus amigos e familiares.
-O envolvimento neste projeto teve como objetivo praticar e aprimorar conceitos relacionados ao **React Native**.
+This application was created during the Rocketseat's Next Level Week 10 event.<br>
+The objective of this project is to provide an easy way to manage sports bets between friends, family, etc.
 
-### Tecnologias usadas: 
+My participation in this project aimed to practice and improvement about new concepts related to **React Native**.
+
+### Technologies: 
 * **_React Native_**
 * **_Typescript_**
 
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="80"/>
-    <img src="https://img.icons8.com/color/452/typescript.png" width="80"/>
-</div>
-<br>
+In addition to these technologies mentioned above, some other important libraries and tricks were used, such as **_Axios_** to HTTP requests and **_OAuth_** for third-party authentication.
 
-Além dessas tecnologias, foram utilizados diversos conceitos e bibliotecas, como **_Axios_** para requisição a APIs e **_OAuth_** para o processo de autenticação por terceiros.
-
-Confira o [repositório oficial](https://github.com/rocketseat-education/nlw-copa-ignite) do projeto para mais informações.
+Check out the [project's official repository](https://github.com/rocketseat-education/nlw-copa-ignite) on Rocketseat's Github for more information.
